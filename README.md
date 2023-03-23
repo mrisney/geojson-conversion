@@ -1,9 +1,9 @@
 # geojson-conversion
 
 ## Overview
-A simple GeoJSON serializer / deserializer
+A simple GeoJSON serializer
 
-Use it as a simple explanation of how to cpnvert a .csv file of long/lat cooridnates to a GeoJSON Feature Collection
+Use it as a simple explanation of how to convert a .csv file of long/lat cooridnates to a GeoJSON Feature Collection
 
 ```
 go mod init geojson
