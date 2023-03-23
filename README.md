@@ -1,4 +1,4 @@
-# geojson-converssion
+# geojson-conversion
 
 ## Overview
 A simple GeoJSON serializer / deserializer
